@@ -1,2 +1,2 @@
 # YangGangRedditBot
-Yang Gang Reddit Info Bot
+Yang Gang Reddit Bot
